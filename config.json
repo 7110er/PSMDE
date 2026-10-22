@@ -1,0 +1,5 @@
+{
+ "endpoint": "https://script.google.com/macros/s/AKfycby2WdWO4NRWC86c4BVJvFnk5Zpx242m6eeEddSr5R-JykxChW4wjVUeNI5Ocp3bO1X9HA/exec",
+ "google_client_id": "377564227600-40hlraca901imnarkb6s3hd5hls69jih.apps.googleusercontent.com",
+ "說明": "部署時填入：endpoint＝Apps Script 網路應用程式網址（https://script.google.com/macros/s/…/exec）；google_client_id＝OAuth 用戶端 ID（….apps.googleusercontent.com）。不得填入任何金鑰或病人資料。"
+}
